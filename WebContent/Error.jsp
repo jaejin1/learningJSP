@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>시스템오류 !! </title>
 </head>
 <body>
-	<p> 안녕 </p>
+	<p> 로그인후에 이용가능ㅇ합니다 .  </p>
+	<a href = "<%=request.getContextPath()%>/auth/login">로그인</a>
 </body>
 </html>
+
